@@ -29,3 +29,4 @@ found in the LICENSE file in the root of this package.
 
 <!-- gg_typescript_bugfixes: TS git+#semver: emission E2E -->
 <!-- gg_typescript_bugfixes: TS git+#semver: emission E2E v2 -->
+<!-- gg_typescript_bugfixes v3 -->
