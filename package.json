@@ -4,7 +4,7 @@
   "description": "tssuite testproject_3 — gg one E2E test project",
   "homepage": "https://github.com/tssuite/testproject_3",
   "bugs": "https://github.com/tssuite/testproject_3/issues",
-  "private": true,
+  "private": false,
   "license": "MIT",
   "engines": {
     "node": ">=22.14.0"
