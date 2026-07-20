@@ -1,0 +1,18 @@
+{
+  "issue_id": "typescript-test-001",
+  "description": "Test",
+  "repositories": [
+    {
+      "name": "testproject_3",
+      "url": "https://github.com/tssuite/testproject_3.git"
+    },
+    {
+      "name": "testproject_2",
+      "url": "https://github.com/tssuite/testproject_2.git"
+    },
+    {
+      "name": "testproject_1",
+      "url": "git@github.com:tssuite/testproject_1.git"
+    }
+  ]
+}
